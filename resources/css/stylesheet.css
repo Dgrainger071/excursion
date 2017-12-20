@@ -10,15 +10,16 @@ h3 {
   font-size: 50px;
 }
 
-.link1 {
+.link1 p {
   font-color: Aquamarine;
   font-size: 16px
   text-align: center;
 }
 
 .header2 {
-  font-wight: 300;
+  font-weight: 300;
   font-size: 47px;
+  text-align: center;
 }
 
 .header2 p {
@@ -26,7 +27,7 @@ h3 {
   color: Gray;
 }
 
-.link2 {
+.link2 p {
   font-color: Aquamarine;
   font-size: 16px
   text-align: center;
